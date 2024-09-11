@@ -1,0 +1,25 @@
+body{
+    background-color:black;
+    color: darkmagenta;
+}
+    
+    h1 {
+    color: red;
+    align-items: center;
+    line-height: 200%;
+    text-shadow: 5px 5px 4px #A4B3B0;
+    
+}
+p {
+    text-indent: 2.5em;
+    color: darkmagenta;
+    line-height: 150%;
+    padding: 20px;
+    text-align: justify;
+    
+}
+
+img {
+    box-shadow: 10px 11px 5px;
+    
+}
