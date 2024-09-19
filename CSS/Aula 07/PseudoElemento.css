@@ -1,0 +1,14 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+p::before{
+    content: 🐶;
+    color: blue;
+}
+
+h3::after{
+    content: 🐱;
+    color: blue;
+}

@@ -1,0 +1,17 @@
+p{
+    background-color: aqua;
+    border-left: 0cap;
+    
+}
+.bordatracejada {
+
+    border-width: 5px;
+    border-style:backdrop;
+    border-color: #000033;
+   
+    }
+
+.class {
+    border: 25;
+}
+

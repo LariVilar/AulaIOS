@@ -1,0 +1,13 @@
+div{
+    
+}
+.container{
+    border: solid 2px rebeccapurple;
+    overflow: auto;
+
+}
+
+img{
+    border: solid 1px;
+    float: right;
+}

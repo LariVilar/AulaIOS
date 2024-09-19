@@ -1,0 +1,22 @@
+section{
+  border: solid 1px brown;
+  width: 100%;
+  text-align: center;  
+}
+div{
+    margin: 10px;
+    width: 25vw;
+
+}
+
+.primeiro{
+    float: left;
+}
+
+.segundo{
+    float: right;
+}
+
+img{
+ border: solid teal;
+}

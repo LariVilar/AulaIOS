@@ -1,0 +1,27 @@
+.titulo{
+    color: darkcyan;
+}
+
+.italico{
+    font-style: italic;
+}
+
+.sombra{
+    filter: drop-shadow(5px 5px 5px black);
+}
+
+#Olá{
+    color: blueviolet;
+}
+
+#Alo{
+    color: brown;
+}
+
+#Eai{
+    color: burlywood;
+}
+
+#paragrafo{
+    background-color: darkgrey;
+}
