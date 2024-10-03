@@ -1,0 +1,55 @@
+.container {
+    margin: 25px auto;
+    height: 800px;
+    width: 800px;
+    background-color: antiquewhite;
+
+
+}
+
+.box {
+
+    height: 200px;
+    width: 200px;
+    margin: 10px auto;
+    border: solid 1px;
+
+}
+
+.c1 {
+
+    background-color: blueviolet;
+    /*flex-shrink: 2;*/
+    /*order: 3;*/
+    /*flex-grow: 1;*/
+
+}
+
+.c2 {
+
+    background-color: rgb(188, 45, 188);
+    /*flex-grow: 2;
+    /*flex-shrink: 2;*/
+    /*order: 3;*/
+    /*flex-grow: 1;*/
+}
+
+.c3 {
+
+    background-color: rgb(128, 23, 134);
+    flex-grow: 1;
+    /*flex-grow: 2;
+    /*flex-shrink: 2;*/
+    /*order: 3;*/
+    /*flex-grow: 1;*/
+}
+
+/*alinhamento com main axis */
+/*flex-direction; row*/
+/*flex-direction; row-reverse*/
+/*flex-direction; colum;*/
+/*flex-direction; colum-reverse*/
+
+/* muda a orientação do main axis (elementos de tela) */
+
+/*alinhamento com o cross axis */
