@@ -1,8 +1,18 @@
-let nota01, nota02, nota03;
+let nome = `Larissa`; 
+let idade = 18;
+let sobrenome = `Vilar`;   
 
-nota01 = 10;
-nota02 = 6;
-media = nota01 + nota02 / 2
+console.log(typeof nome, nome);
+console.log(typeof idade, idade);
+console.log(typeof sobrenome, sobrenome);
 
+let namorando = 'Não';
+let sNome = "Lari";
+let solteiro = `Não`;
 
-console.log("A média do aluno é: ${media}")
+console.log(nome + "Lari" + sNome + " Está solteiro?" + solteiro);
+
+console.log(nome, sNome,  "Está solteiro?", solteiro);
+
+console.log(`Olá, ${nome}! Você está solteiro? ${solteiro} sua idade é: ${idade = 25*2}
+}`)

@@ -1,0 +1,47 @@
+.container {
+    height: 600px;
+    width: 800px;
+    margin: 25px auto;
+    border: dotted 1px rebeccapurple;
+    display: grid;
+    grid-template-columns: repeat(4, fr1);
+    grid-template-rows: repeat(4, fr1);
+    grid-template-areas: 
+    "cx1 cx1 cx1 cx1 cx1 cx1"
+    "cx2 cx3 cx3 cx3 cx3 cx3"
+    "cx2 cx3 cx3 cx3 cx3 cx3"
+    "cx5 cx5 cx5 cx5 cx5 cx5"
+    "cx6 cx6 cx6 cx6 cx6 cx6"
+    ;
+
+}
+
+.cx1 {
+    grid-area: cx1;
+    background-color: rgb(39, 5, 70);
+}
+
+.cx2 {
+    grid-area: cx2;
+    background-color: rgb(72, 8, 131);
+}
+
+.cx3 {
+    grid-area: cx3;
+    background-color: rgb(103, 10, 190);
+}
+
+.cx4 {
+    grid-area: cx4;
+    background-color: rgb(164, 83, 239);
+}
+
+.cx5 {
+    grid-area: cx5;
+    background-color: rgb(165, 86, 239);
+}
+
+.cx6 {
+    grid-area: cx6;
+    background-color: rgb(199, 163, 232);
+}

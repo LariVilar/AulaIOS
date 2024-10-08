@@ -1,0 +1,8 @@
+.container{
+    background-color: silver;
+    text-align: center;
+}
+
+.container>img:hover{
+animation: movimento 1.5s easy-in-out; 
+}
