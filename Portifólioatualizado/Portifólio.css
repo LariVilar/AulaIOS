@@ -170,7 +170,7 @@ transition: .2s ;
 
 .Habilidades .Habilidades-box:hover{
 transform:scale(1.05) ;
-box-shadow: 0 0 20px rgba(255, 255, 255, 0.458);
+box-shadow: 0 0 20px rgba(144, 138, 138, 0.458);
 }
 
 
