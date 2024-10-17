@@ -8,8 +8,10 @@ if (media >= 7 && faltas < 6) {
     //true
     console.log(`Aluno aprovado`);
 }else if (media >= 6.5 && faltas <= 5){
+
     console.log(`Aluno Ap. conselho`);
 }else if (media >6 && faltas < 6){
+    
     console.log(`Atividade de rep. ${media}`);
     media += 0.5
     console.log(media);
